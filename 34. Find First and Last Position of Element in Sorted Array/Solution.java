@@ -18,7 +18,7 @@ class Solution {
         } //while
 
         //2nd pass, but search above
-        l = 0;
+        l = toReturn[0] == -1 ? 0 : toReturn[0];
         r = nums.length - 1;
         while (l <= r) {
             int mid = ((r + l) / 2);
