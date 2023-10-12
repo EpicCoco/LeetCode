@@ -1,0 +1,5 @@
+https://leetcode.com/problems/find-in-mountain-array/description/
+My idea was to use three binary searches, one to find the peak of the mountain array and two more to search either side of the mountain.
+Since I'm using binary search, which is O(log(n)), and there are 10,000 elements max, I will use no more than:
+3 * log base 2 (10,000) = 39
+This fits within the criteria of the problem, plus some wiggle room for my actual solution.
