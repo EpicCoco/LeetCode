@@ -1,0 +1,4 @@
+https://leetcode.com/problems/min-cost-climbing-stairs/
+With this one, I used the relation
+ T(n) = min( T(n-1) , T(n-2) ) + cost[n]
+to help figure out the DP strategy
