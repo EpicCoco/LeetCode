@@ -1,0 +1,3 @@
+https://leetcode.com/problems/backspace-string-compare/
+For this problem I used Stacks because of how the backspace
+functionality worked, where it seemed to build inward -> outward
