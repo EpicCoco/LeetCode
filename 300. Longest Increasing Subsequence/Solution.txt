@@ -1,0 +1,5 @@
+https://leetcode.com/problems/longest-increasing-subsequence/
+I solved this one with a friend. We figured out that, to find
+the length of a subsequence at a point i, it would be the
+length of the longest sequence preceeding it (that was still
+less than it) plus one. 
