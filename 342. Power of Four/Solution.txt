@@ -1,0 +1,6 @@
+https://leetcode.com/problems/power-of-four/description/
+I used a while loop and divided by four, since any power
+would eventually reduce to one.
+I tried doing the problem without while loops, and by
+raising the number to 1/4, but that got inaccurate with
+doubles
