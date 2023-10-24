@@ -1,0 +1,7 @@
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
+My first intuition was to use BFS, but then decided to do
+a more DFS-like apprroach using recursion. I keep track of
+the current level in the recursive call and keep updated
+max values in an array. the DFS hits every node and so at
+the end of the program, the overall max values per level
+are in the array.
