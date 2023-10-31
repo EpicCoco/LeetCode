@@ -1,0 +1,4 @@
+https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+The problem can be simplified into XORing the previous value with
+the current one.Knowing that the inverse of an XOR is an XOR, 
+this can be done really simply
