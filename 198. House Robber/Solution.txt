@@ -1,0 +1,6 @@
+https://leetcode.com/problems/house-robber/description/
+I figured out the 3 base cases (the 3 last elements in
+the list) and figured out that, from any one point, one
+moves either 2 or 3 spaces ahead in a dp list. I can
+use this to find the best house to move to for each
+house, and find the max of that.
