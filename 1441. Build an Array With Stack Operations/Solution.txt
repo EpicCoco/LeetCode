@@ -1,0 +1,4 @@
+https://leetcode.com/problems/build-an-array-with-stack-operations/
+Here, since the numbers in target are strictly increasing, we can
+have a counter for what number we're looking for and increment,
+posting the stack operation in a toReturn list.
