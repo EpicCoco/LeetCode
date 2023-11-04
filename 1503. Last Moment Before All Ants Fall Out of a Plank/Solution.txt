@@ -1,0 +1,6 @@
+https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
+The big intuition on this problem is that ants bouncing off of
+each other does not really matter - an ant is still going to 
+go in both of the original directions with no additional cost.
+Therefore one is just looking for the ant farthest from the
+dropoff point.
