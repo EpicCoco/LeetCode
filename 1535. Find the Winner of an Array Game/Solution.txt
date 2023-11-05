@@ -1,0 +1,5 @@
+https://leetcode.com/problems/find-the-winner-of-an-array-game/
+I first tried to solve this problem by writing a custom
+LinkedList, but then realized Queues would work well for
+my intended solution, which was to actually simulate 
+the game being played. 
