@@ -1,0 +1,5 @@
+https://leetcode.com/problems/seat-reservation-manager/
+I first tried using a brute-force approach with an array,
+but that timed out on one of the test cases. Then I used
+a PriorityQueue because it would prioritize the lowest
+number and return that.
