@@ -1,0 +1,7 @@
+leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
+I figured that, unless the start and finsih are overlapping, the 
+easiest way to figure this problem out was to get to the finish
+as fast as possible and waste any extra moves. I do this by first
+travelling diagonally towards the finish, then horizontally/
+vertically. This is the most efficent path one can make in this
+problem. Then waste any extra moves.
