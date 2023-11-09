@@ -1,0 +1,5 @@
+https://leetcode.com/problems/count-number-of-homogenous-substrings/
+First I tried using a choose function, with factorials, but then
+realized that was inefficient, and I could simply use a counter
+for the current substring and increase my total counter by that
+amount.
