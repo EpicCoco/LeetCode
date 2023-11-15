@@ -1,0 +1,5 @@
+leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+I solved this problem by first sorting, and then adjusting
+values in the array to match the condition. If the last
+element exceeds the size of the array, then I return the 
+size of the array.
