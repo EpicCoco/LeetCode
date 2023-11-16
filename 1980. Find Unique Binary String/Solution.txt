@@ -1,0 +1,4 @@
+https://leetcode.com/problems/find-unique-binary-string/
+My solution goes diagonally along each string and 
+inverts the bit in order to create a unique binary
+string.
