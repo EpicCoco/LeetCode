@@ -1,0 +1,5 @@
+leetcode.com/problems/minimize-maximum-pair-sum-in-array
+I recognized this problem as greedy, and simply 
+matched the largest and smallest items in the 
+array throughout the entire array, and kept track
+of the largest element
