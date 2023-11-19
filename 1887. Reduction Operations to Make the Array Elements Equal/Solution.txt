@@ -1,0 +1,4 @@
+https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+I keep track of how many times each number would be adjusted
+in the total. The number tracking how much to change the total
+is changed only when a new number is encountered. 
