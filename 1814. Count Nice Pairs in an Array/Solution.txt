@@ -1,0 +1,8 @@
+leetcode.com/problems/count-nice-pairs-in-an-array/
+For this problem, I make a separate array that
+tracks the difference in a number and its
+reverse. I sort that to put all the pairs
+together and make my count with that. The count
+is determined by the number of elements
+converted to the nth triangle number (factorial
+for addition), and add that to the total.
