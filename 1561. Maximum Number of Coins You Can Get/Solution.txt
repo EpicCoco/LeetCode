@@ -1,0 +1,8 @@
+https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+For this problem, you can always group a triplet with
+the smallest value for Bob. You also always group
+a large number for Alice, followed by a slightly 
+smaller number for yourself. With this in mind, you
+can sort the array, skip the first third, and take
+every other item (which is like taking the second
+largest item if you had constructed a triplet).
