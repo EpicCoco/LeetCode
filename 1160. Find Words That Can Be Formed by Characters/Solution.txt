@@ -1,0 +1,5 @@
+leetcode.com/problems/find-words-that-can-be-formed-by-characters
+I solved this one by making a frequency array of the characters
+in chars, and then checking each word in words to see if the
+frequency of any of those characters was greater than the target
+frequency set by chars.
