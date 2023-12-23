@@ -1,0 +1,4 @@
+https://leetcode.com/problems/path-crossing/description/
+By swapping from using regular String concatenation
+("" + "") to a StringBuilder, it saves 4ms on the
+runtime.
