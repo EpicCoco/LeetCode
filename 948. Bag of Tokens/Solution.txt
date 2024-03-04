@@ -1,0 +1,6 @@
+leetcode.com/problems/bag-of-tokens/description
+The solution uses 2 pointers on a sorted array.
+If there is enough power to get more score,
+then do so. Otherwise, buy more power (using
+the largest elements in the array since all
+power costs the same).
