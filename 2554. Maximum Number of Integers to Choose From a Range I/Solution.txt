@@ -1,0 +1,3 @@
+https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/
+
+Could be further optimized by switching to number sort
